@@ -1,4 +1,4 @@
-Hi My name is Edward
+Hi! My name is Edward
 =======================
 
 I have been learning coding alongside my technical engineering role. An interest that was sparked in my when I was in High School.
